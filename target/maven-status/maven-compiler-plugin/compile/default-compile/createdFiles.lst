@@ -1,0 +1,9 @@
+com\indira\jakarta\hello\Hello.class
+com\indira\jakarta\controller\RespuestaServlet.class
+com\indira\jakarta\controller\CookieServlet.class
+com\indira\jakarta\hello\HelloWorldResource.class
+com\indira\jakarta\hello\HelloApplication.class
+com\indira\jakarta\controller\MiPrimerServlet.class
+com\indira\jakarta\controller\SessionServlet.class
+com\indira\jakarta\controller\RedireccionServlet.class
+com\indira\jakarta\controller\RecibirCookieServlet.class

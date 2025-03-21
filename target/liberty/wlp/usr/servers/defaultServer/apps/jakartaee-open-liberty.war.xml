@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <dir sourceOnDisk="E:\2025\jakartaee-open-liberty\src\main\webapp" targetInArchive="/"/>
+    <dir sourceOnDisk="E:\2025\jakartaee-open-liberty\target\classes" targetInArchive="/WEB-INF/classes"/>
+    <file sourceOnDisk="C:\Users\IE-pc3\.m2\repository\org\postgresql\postgresql\42.7.4\postgresql-42.7.4.jar" targetInArchive="/WEB-INF/lib/postgresql-42.7.4.jar"/>
+    <file sourceOnDisk="C:\Users\IE-pc3\.m2\repository\org\checkerframework\checker-qual\3.42.0\checker-qual-3.42.0.jar" targetInArchive="/WEB-INF/lib/checker-qual-3.42.0.jar"/>
+    <file sourceOnDisk="E:\2025\jakartaee-open-liberty\target\tmp\META-INF\MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>

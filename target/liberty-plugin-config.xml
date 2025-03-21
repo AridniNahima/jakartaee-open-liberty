@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <installDirectory>E:\2025\jakartaee-open-liberty\target\liberty\wlp</installDirectory>
+    <assemblyArtifact>
+        <groupId>io.openliberty</groupId>
+        <artifactId>openliberty-kernel</artifactId>
+        <version>25.0.0.2</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>C:\Users\IE-pc3\.m2\repository\io\openliberty\openliberty-kernel\25.0.0.2\openliberty-kernel-25.0.0.2.zip</assemblyArchive>
+    <assemblyInstallDirectory>E:\2025\jakartaee-open-liberty\target\liberty</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <serverDirectory>E:\2025\jakartaee-open-liberty\target\liberty\wlp\usr\servers\defaultServer</serverDirectory>
+    <userDirectory>E:\2025\jakartaee-open-liberty\target\liberty\wlp\usr</userDirectory>
+    <serverOutputDirectory>E:\2025\jakartaee-open-liberty\target\liberty\wlp\usr\servers\defaultServer</serverOutputDirectory>
+    <serverName>defaultServer</serverName>
+    <projectType>war</projectType>
+    <projectCompileDependency>org.postgresql:postgresql:42.7.4</projectCompileDependency>
+    <projectCompileDependency>org.checkerframework:checker-qual:3.42.0</projectCompileDependency>
+    <configDirectory>E:\2025\jakartaee-open-liberty\src\main\liberty\config</configDirectory>
+    <configFile>E:\2025\jakartaee-open-liberty\src\main\liberty\config\server.xml</configFile>
+    <appsDirectory>apps</appsDirectory>
+    <looseApplication>true</looseApplication>
+    <stripVersion>false</stripVersion>
+    <installAppPackages>project</installAppPackages>
+    <applicationFilename>jakartaee-open-liberty.war.xml</applicationFilename>
+    <installAppsConfigDropins>E:\2025\jakartaee-open-liberty\target\liberty\wlp\usr\servers\defaultServer\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+</liberty-plugin-config>

@@ -1,0 +1,6 @@
+
+ Index  Count  Time of first Occurrence    Time of last Occurrence     Exception SourceId ProbeId
+------+------+---------------------------+---------------------------+---------------------------
+     0      1   20/3/25, 21:57:11:187 VET   20/3/25, 21:57:11:235 VET com.ibm.ws.jsp.webcontainerext.JSPErrorReport com.ibm.ws.webcontainer.filter.FilterInstanceWrapper.doFilter 144
+                                                                            - E:\2025\jakartaee-open-liberty\target\liberty\wlp\usr\servers\defaultServer\logs\ffdc\ffdc_25.03.20_21.57.11.0.log
+------+------+---------------------------+---------------------------+---------------------------
