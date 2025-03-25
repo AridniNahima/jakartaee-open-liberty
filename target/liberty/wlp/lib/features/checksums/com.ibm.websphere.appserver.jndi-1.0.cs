@@ -1,6 +1,6 @@
-#Thu Mar 20 21:52:53 VET 2025
-lib/com.ibm.ws.jndi.url.contexts_1.0.98.jar=fdd1b551120d69f2c4e9e7ea4e34761f
-lib/com.ibm.ws.jndi_1.0.98.jar=28043b563c35f14e9daea3a3a07efe38
-lib/com.ibm.ws.org.apache.aries.jndi.api_1.1.98.jar=ce001ca09c7ca9d13bc0735f725523b4
-lib/com.ibm.ws.org.apache.aries.jndi.core_1.1.98.jar=e51a381ea4fe5cfdb0c043a3cb9d4e3c
-lib/features/com.ibm.websphere.appserver.jndi-1.0.mf=5e6c823ecc2b4e3f040a0d01fa14f2cd
+#Tue Mar 25 19:08:43 VET 2025
+lib/com.ibm.ws.jndi.url.contexts_1.0.99.jar=4294c35251c262d5cdf9e79185b51ff1
+lib/com.ibm.ws.jndi_1.0.99.jar=a86c78ee78da041bcf0f6be8b261d32c
+lib/com.ibm.ws.org.apache.aries.jndi.api_1.1.99.jar=93e6d1c7ab602d8cc0ad5d092dd52cfa
+lib/com.ibm.ws.org.apache.aries.jndi.core_1.1.99.jar=604babb7e5b7597e0e86e33918e22381
+lib/features/com.ibm.websphere.appserver.jndi-1.0.mf=2dc9b99b8f40fd052b4fa2876146fc35

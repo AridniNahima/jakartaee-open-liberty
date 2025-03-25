@@ -1,4 +1,4 @@
-#Thu Mar 20 21:53:12 VET 2025
-lib/com.ibm.ws.javaee.version_1.0.98.jar=db7f55f7755aea42fbce2777cc7bea19
-lib/features/io.openliberty.jakartaeePlatform-10.0.mf=9c8c744ed90f8dc7ec04378a1406408f
-lib/io.openliberty.jakartaee.platform.v10_1.0.98.jar=804a7c24f87278dcd5008a358cd0c7ed
+#Tue Mar 25 19:08:53 VET 2025
+lib/com.ibm.ws.javaee.version_1.0.99.jar=1aa08cbd783ae0eb6caaf7a94e421576
+lib/features/io.openliberty.jakartaeePlatform-10.0.mf=616e0424770b9d1e3b05fc2b75bda03e
+lib/io.openliberty.jakartaee.platform.v10_1.0.99.jar=21451836f7b6d7acc5286d1645e5debf

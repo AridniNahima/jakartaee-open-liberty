@@ -1,4 +1,4 @@
-#Thu Mar 20 21:52:43 VET 2025
-lib/com.ibm.ws.javaee.platform.v8_1.0.98.jar=1c38f315ee9e6c2bacf38ddaff6372a3
-lib/com.ibm.ws.javaee.version_1.0.98.jar=db7f55f7755aea42fbce2777cc7bea19
-lib/features/com.ibm.websphere.appserver.javaeePlatform-8.0.mf=2a262a8b6aa7ffdc7df0fdf5c836b29c
+#Tue Mar 25 19:08:44 VET 2025
+lib/com.ibm.ws.javaee.platform.v8_1.0.99.jar=2b20c6d1fec53e60ae289f3aecc3828f
+lib/com.ibm.ws.javaee.version_1.0.99.jar=1aa08cbd783ae0eb6caaf7a94e421576
+lib/features/com.ibm.websphere.appserver.javaeePlatform-8.0.mf=17422c1c8c74944c32cafb3307d432b2

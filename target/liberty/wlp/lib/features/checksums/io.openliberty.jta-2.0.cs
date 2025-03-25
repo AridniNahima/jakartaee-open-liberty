@@ -1,5 +1,5 @@
-#Thu Mar 20 21:52:44 VET 2025
-dev/api/ibm/io.openliberty.transaction_1.1.98.jar=daed911061ea2e3d1210c5559914f867
-dev/api/ibm/javadoc/io.openliberty.transaction_1.1-javadoc.zip=6ad989240b5d4a2d099a19d2ca80c54d
-dev/api/spec/io.openliberty.jakarta.transaction.2.0_2.0.98.jar=f9e14c7b29af05090f4e9344d68cac6e
-lib/features/io.openliberty.jta-2.0.mf=d4bcd6b2aa75df17a7641df176678723
+#Tue Mar 25 19:08:42 VET 2025
+dev/api/ibm/io.openliberty.transaction_1.1.99.jar=7b177a617059197a66a1d83d1c378020
+dev/api/ibm/javadoc/io.openliberty.transaction_1.1-javadoc.zip=a88dbf6ee30fb248169aac9a26922242
+dev/api/spec/io.openliberty.jakarta.transaction.2.0_2.0.99.jar=3493e70b98dbddbfb4709593389a8534
+lib/features/io.openliberty.jta-2.0.mf=02b59cdc0d3644eedb13b49698dd417e

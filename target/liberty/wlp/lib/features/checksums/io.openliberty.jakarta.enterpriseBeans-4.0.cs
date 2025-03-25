@@ -1,3 +1,3 @@
-#Thu Mar 20 21:52:47 VET 2025
-dev/api/spec/io.openliberty.jakarta.enterpriseBeans.4.0_1.0.98.jar=d62b31a1eb8b2eb9d8c8fcafb1fa28ce
-lib/features/io.openliberty.jakarta.enterpriseBeans-4.0.mf=21721f4bb4185f0f559a6e2c40fd7be1
+#Tue Mar 25 19:08:52 VET 2025
+dev/api/spec/io.openliberty.jakarta.enterpriseBeans.4.0_1.0.99.jar=7e7d39d06c0257319c6156bfd1e28231
+lib/features/io.openliberty.jakarta.enterpriseBeans-4.0.mf=3ed1e092ec80d48448b253ec651b77bd

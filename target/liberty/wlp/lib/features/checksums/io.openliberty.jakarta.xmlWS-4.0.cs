@@ -1,4 +1,4 @@
-#Thu Mar 20 21:52:50 VET 2025
-dev/api/spec/io.openliberty.jakarta.soap.3.0_1.0.98.jar=3849e1e5b471b10443e8c813ea7f7053
-dev/api/spec/io.openliberty.jakarta.xmlWS.4.0_1.0.98.jar=967623f3c4f5e29977615aec1058ee96
-lib/features/io.openliberty.jakarta.xmlWS-4.0.mf=20120bc0755c3776098a618b2d990ee0
+#Tue Mar 25 19:08:36 VET 2025
+dev/api/spec/io.openliberty.jakarta.soap.3.0_1.0.99.jar=e2163162d95d1686b050205b5796dbb5
+dev/api/spec/io.openliberty.jakarta.xmlWS.4.0_1.0.99.jar=4f438fbe577c3b67ed8153bba4063764
+lib/features/io.openliberty.jakarta.xmlWS-4.0.mf=03dd635d7a1e4d4b998daa3bb0768132

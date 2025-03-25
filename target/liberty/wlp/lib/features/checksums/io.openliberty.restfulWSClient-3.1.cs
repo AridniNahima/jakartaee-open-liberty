@@ -1,10 +1,10 @@
-#Thu Mar 20 21:52:51 VET 2025
-dev/api/ibm/io.openliberty.jaxrs30_1.0.98.jar=4e532d489c743f059cce7c9510c3aa05
-dev/api/ibm/javadoc/io.openliberty.jaxrs30_1.0-javadoc.zip=b650d04d4a0b07286e49d8beabfe9b52
-lib/com.ibm.ws.jaxrs.2.x.config_1.0.98.jar=2e8dd8d37c5f1f8521597b9a3be25bef
-lib/com.ibm.ws.org.apache.httpcomponents_1.0.98.jar=bb4fd7e36f06e4574bd4541c326e03ef
-lib/features/io.openliberty.restfulWSClient-3.1.mf=3b2883725cdeb6f97426c4b3e5f229ba
-lib/io.openliberty.org.apache.commons.codec_1.16.98.jar=7cd71c0a94acfa253f3854021c75bed8
-lib/io.openliberty.org.apache.commons.logging_1.2.98.jar=6b218d7def7ea1007e4cb51a9b952767
-lib/io.openliberty.org.jboss.logging35_1.0.98.jar=044ac119e19878efb4360e46ec7483e9
-lib/io.openliberty.org.jboss.resteasy.common.ee10_1.0.98.jar=84289eab693e02b7e50f7444485b01be
+#Tue Mar 25 19:08:39 VET 2025
+dev/api/ibm/io.openliberty.jaxrs30_1.0.99.jar=2d01d6a4cd99196406de03970cb0e1c6
+dev/api/ibm/javadoc/io.openliberty.jaxrs30_1.0-javadoc.zip=572b942e12f9737fc277e06bdfeddcc8
+lib/com.ibm.ws.jaxrs.2.x.config_1.0.99.jar=bb7144304776d58d71d38863003000b3
+lib/com.ibm.ws.org.apache.httpcomponents_1.0.99.jar=3ef18bba88727e215aa32b18b789eecc
+lib/features/io.openliberty.restfulWSClient-3.1.mf=9eb866db14558390f067930e595e4ce2
+lib/io.openliberty.org.apache.commons.codec_1.16.99.jar=786c98da4ed7666d7c8df173d8a02afb
+lib/io.openliberty.org.apache.commons.logging_1.2.99.jar=809661656e4d6534f282a1db0a242d19
+lib/io.openliberty.org.jboss.logging35_1.0.99.jar=af59dde4755f62c49d50d3fbb7cb297d
+lib/io.openliberty.org.jboss.resteasy.common.ee10_1.0.99.jar=50d094beed647d0e15fd4e3ce566e2ea

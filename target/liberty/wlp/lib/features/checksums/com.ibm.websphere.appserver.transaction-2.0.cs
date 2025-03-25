@@ -1,13 +1,13 @@
-#Thu Mar 20 21:52:57 VET 2025
-dev/spi/ibm/com.ibm.websphere.appserver.spi.transaction_1.1.98.jar=aa5a11293d1bc0b52e8689f80e38a2bd
-dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.transaction_1.1-javadoc.zip=05df1ad5f8c1215826665205b65dba71
-lib/com.ibm.rls.jdbc.jakarta_1.0.98.jar=4bd40ba02c33961d329de54b682e5e7d
-lib/com.ibm.tx.jta.jakarta_1.0.98.jar=32ea660495228af2a5ff4164d47e14e8
-lib/com.ibm.tx.util.jakarta_1.0.98.jar=ffa87af02ffddaf71501f963a109cc85
-lib/com.ibm.ws.cdi.interfaces.jakarta_1.0.98.jar=b5126fd24983c957fa78204576ebf5c6
-lib/com.ibm.ws.recoverylog_1.0.98.jar=f26534e8c997f89fd269fedd449ad28e
-lib/com.ibm.ws.transaction.jakarta_1.0.98.jar=ad242e15485cc29ef5bc8b0887e3058b
-lib/com.ibm.ws.tx.embeddable.jakarta_1.0.98.jar=7aafea5f6c36e8301f66a17e320b2031
-lib/com.ibm.ws.tx.jta.extensions.jakarta_1.0.98.jar=63ad5f8a812163dbfe950f960cb48ba4
-lib/features/com.ibm.websphere.appserver.transaction-2.0.mf=58333d3d114fc3448f2d5146cfb3482b
-lib/io.openliberty.transaction.internal.cdi20.jakarta_1.0.98.jar=9664c9034a28c87386c3b58e93fd09c6
+#Tue Mar 25 19:08:42 VET 2025
+dev/spi/ibm/com.ibm.websphere.appserver.spi.transaction_1.1.99.jar=84da6269b1172c722dfa4aa6a821150b
+dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.transaction_1.1-javadoc.zip=0c4b86b8d411e7c44880dca153688c77
+lib/com.ibm.rls.jdbc.jakarta_1.0.99.jar=ee4c462ffca9510cbd4c8550fe0d0834
+lib/com.ibm.tx.jta.jakarta_1.0.99.jar=86533d9082b35a54260851545a2d8d40
+lib/com.ibm.tx.util.jakarta_1.0.99.jar=576d504b41398dd0fc5c6a835b735955
+lib/com.ibm.ws.cdi.interfaces.jakarta_1.0.99.jar=a4183e80d8af437f8e82d3d6c319ad94
+lib/com.ibm.ws.recoverylog_1.0.99.jar=befbc712d11153b9749ab72ef8fcdfab
+lib/com.ibm.ws.transaction.jakarta_1.0.99.jar=c05b7341274f13d5cbfba12670fd7e36
+lib/com.ibm.ws.tx.embeddable.jakarta_1.0.99.jar=5f322f8c5b4499497f7ac2c9433cb660
+lib/com.ibm.ws.tx.jta.extensions.jakarta_1.0.99.jar=eb85676e1d9ec55b2208eb2dba412a27
+lib/features/com.ibm.websphere.appserver.transaction-2.0.mf=cd0f26343fa129e12f99f68999ad0553
+lib/io.openliberty.transaction.internal.cdi20.jakarta_1.0.99.jar=7be7d9a771c2caa6b018ac793e559449

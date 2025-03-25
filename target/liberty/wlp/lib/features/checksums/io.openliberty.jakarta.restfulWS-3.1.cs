@@ -1,3 +1,3 @@
-#Thu Mar 20 21:53:15 VET 2025
-dev/api/spec/io.openliberty.jakarta.restfulWS.3.1_1.0.98.jar=dabf260a042e096f9413817a3c8b9cd4
-lib/features/io.openliberty.jakarta.restfulWS-3.1.mf=8b6741831b7e04853f161096ba7a73cf
+#Tue Mar 25 19:08:50 VET 2025
+dev/api/spec/io.openliberty.jakarta.restfulWS.3.1_1.0.99.jar=49c44079004a69f35856e4bc0115474a
+lib/features/io.openliberty.jakarta.restfulWS-3.1.mf=4848744cb8ec32f792e4cf9491f4b86f

@@ -26,7 +26,7 @@ IBM-API-Package: jakarta.servlet.jsp; type=spec,
  org.apache.jasper.el; type=internal
 IBM-App-ForceRestart: install,
  uninstall
-IBM-AppliesTo: io.openliberty;productVersion="25.0.0.2"
+IBM-AppliesTo: io.openliberty;productVersion="25.0.0.3"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

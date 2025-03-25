@@ -1,5 +1,5 @@
-#Thu Mar 20 21:53:14 VET 2025
-lib/com.ibm.ws.javaee.platform.defaultresource_1.0.98.jar=d4986f09364e30196b286656cbd78e1c
-lib/com.ibm.ws.javaee.platform.v7_1.0.98.jar=5811dc4cebb6f91346e2f6c4e3466804
-lib/com.ibm.ws.javaee.version_1.0.98.jar=db7f55f7755aea42fbce2777cc7bea19
-lib/features/com.ibm.websphere.appserver.javaeePlatform-7.0.mf=c5d796a46765240df3568a1cd26d3897
+#Tue Mar 25 19:08:47 VET 2025
+lib/com.ibm.ws.javaee.platform.defaultresource_1.0.99.jar=3a4bc00ce472227d41390b181643aeba
+lib/com.ibm.ws.javaee.platform.v7_1.0.99.jar=657b083927bcb1bab1fe8983c193cc3a
+lib/com.ibm.ws.javaee.version_1.0.99.jar=1aa08cbd783ae0eb6caaf7a94e421576
+lib/features/com.ibm.websphere.appserver.javaeePlatform-7.0.mf=f0738086a9894b42ab4e4774b5650001

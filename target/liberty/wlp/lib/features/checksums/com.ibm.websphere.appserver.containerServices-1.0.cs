@@ -1,8 +1,8 @@
-#Thu Mar 20 21:53:03 VET 2025
-dev/spi/ibm/com.ibm.websphere.appserver.spi.containerServices_4.0.98.jar=9074b20fdcb5dfdc7f9c50c0d4e699b1
-dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.containerServices_4.0-javadoc.zip=3268e750fb15aed77a7cfa593cdd290d
-lib/com.ibm.ws.container.service_1.0.98.jar=a2c817c53bea114b91bd4b6d6428e642
-lib/com.ibm.ws.javaee.version_1.0.98.jar=db7f55f7755aea42fbce2777cc7bea19
-lib/com.ibm.ws.resource_1.0.98.jar=8496ecc57743e5b9182489752d5f6e2e
-lib/com.ibm.ws.serialization_1.0.98.jar=2c9121f72c687b3ce89c09e23a3f4e54
-lib/features/com.ibm.websphere.appserver.containerServices-1.0.mf=6ae092a1dfe2ab6161d8e7ca2bbc2ad4
+#Tue Mar 25 19:08:56 VET 2025
+dev/spi/ibm/com.ibm.websphere.appserver.spi.containerServices_4.0.99.jar=fe01602107d2be92b0a3152d0a0f1d35
+dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.containerServices_4.0-javadoc.zip=cf51fad5a1a8d5ed82ccaee1ca25d918
+lib/com.ibm.ws.container.service_1.0.99.jar=60bfb275e20d844aeebcf7474b59a1c3
+lib/com.ibm.ws.javaee.version_1.0.99.jar=1aa08cbd783ae0eb6caaf7a94e421576
+lib/com.ibm.ws.resource_1.0.99.jar=397e05ebfabc536e9a54d7e96148fc2d
+lib/com.ibm.ws.serialization_1.0.99.jar=7d596e0f5e82286b8f110f0c55755398
+lib/features/com.ibm.websphere.appserver.containerServices-1.0.mf=f4eb4c6780b1bb4ae7008007267ef81d

@@ -1,14 +1,14 @@
-#Thu Mar 20 21:52:45 VET 2025
-dev/spi/ibm/com.ibm.websphere.appserver.spi.artifact_1.2.98.jar=54ebb4affbf92828c576ccf0c763845a
-dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.artifact_1.2-javadoc.zip=334016adc2af5979df89e6a8043ad135
-lib/com.ibm.ws.adaptable.module_1.0.98.jar=729b40978472a13e036b847ec48771ca
-lib/com.ibm.ws.artifact.bundle_1.0.98.jar=79655c97f65a0b9905ad04feb06cff3a
-lib/com.ibm.ws.artifact.equinox.module_1.0.98.jar=d08315f2c9c9af44bc76d3b6299f9791
-lib/com.ibm.ws.artifact.file_1.0.98.jar=ddefa42d526efb326f8933b844ae6754
-lib/com.ibm.ws.artifact.loose_1.0.98.jar=19f178cfc2f627dfc44d04df03fb6a19
-lib/com.ibm.ws.artifact.overlay_1.0.98.jar=3dc4fb9fd56fd7556c32a476348c1e6c
-lib/com.ibm.ws.artifact.url_1.0.98.jar=0d47fa0cccee24670e39e070b38098bd
-lib/com.ibm.ws.artifact.zip_1.0.98.jar=23f6e41bbfec53fd09cd2fe803f75c3e
-lib/com.ibm.ws.artifact_1.0.98.jar=cc1390dd0cbbaee8acc0e83ea1512b00
-lib/com.ibm.ws.classloading.configuration_1.0.98.jar=2f3a0b17e2b444816fcb42d66c9b72a9
-lib/features/com.ibm.websphere.appserver.artifact-1.0.mf=98d021a72898eb277b481fa75a4993fd
+#Tue Mar 25 19:08:57 VET 2025
+dev/spi/ibm/com.ibm.websphere.appserver.spi.artifact_1.2.99.jar=bdfb2bacdcfeabeef78a65fcbe520f8b
+dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.artifact_1.2-javadoc.zip=92bf27f11084920729540adc031428cb
+lib/com.ibm.ws.adaptable.module_1.0.99.jar=b9e2ee59975fcc4da73514577af3abff
+lib/com.ibm.ws.artifact.bundle_1.0.99.jar=d287428db0ab322803103754d8b81a95
+lib/com.ibm.ws.artifact.equinox.module_1.0.99.jar=7d21d19930251715c8fb64d29d3ab7af
+lib/com.ibm.ws.artifact.file_1.0.99.jar=c7cd68532bf2c47cdad4d27cc78b2b9f
+lib/com.ibm.ws.artifact.loose_1.0.99.jar=4bda4b95dbb2a7e6ca22d368aea4e096
+lib/com.ibm.ws.artifact.overlay_1.0.99.jar=b10516403e095e3f831d40e71997ee26
+lib/com.ibm.ws.artifact.url_1.0.99.jar=8e98289b5f10153df121249507115254
+lib/com.ibm.ws.artifact.zip_1.0.99.jar=d5561bf521df2916325b0b22b3d4673f
+lib/com.ibm.ws.artifact_1.0.99.jar=32ef6ce2744238fe3d3c7ad856f5602c
+lib/com.ibm.ws.classloading.configuration_1.0.99.jar=4800fa6ab1dd5735de5cb3384b64df11
+lib/features/com.ibm.websphere.appserver.artifact-1.0.mf=8a32bacbb098145a77858e6b01650f1e

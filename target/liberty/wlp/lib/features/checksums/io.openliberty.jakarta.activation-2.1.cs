@@ -1,4 +1,4 @@
-#Thu Mar 20 21:53:11 VET 2025
-dev/api/spec/io.openliberty.jakarta.activation.2.1_1.0.98.jar=d2fa551571395b426259dca9661b2fff
-lib/features/io.openliberty.jakarta.activation-2.1.mf=3d8882db2c4366dd6ac1471982be9640
-lib/io.openliberty.org.glassfish.hk2.osgi-resource-locator_1.0.98.jar=86720dced3eed26a1826a98601cf5786
+#Tue Mar 25 19:08:42 VET 2025
+dev/api/spec/io.openliberty.jakarta.activation.2.1_1.0.99.jar=c7bf24cbe64183d8f636ff493b7b167a
+lib/features/io.openliberty.jakarta.activation-2.1.mf=ad95bb34749a77ade51e658adae270cd
+lib/io.openliberty.org.glassfish.hk2.osgi-resource-locator_1.0.99.jar=a5c2d43566154096a469f904a74c52d1

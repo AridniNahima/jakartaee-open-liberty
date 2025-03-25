@@ -1,3 +1,3 @@
-#Thu Mar 20 21:52:58 VET 2025
-dev/api/spec/io.openliberty.jakarta.connectors.2.1_1.0.98.jar=1749dac84b6ae4382bd06061bb033317
-lib/features/io.openliberty.jakarta.connectors-2.1.mf=15bbbc21311d157fce7f874ca06f33bb
+#Tue Mar 25 19:08:45 VET 2025
+dev/api/spec/io.openliberty.jakarta.connectors.2.1_1.0.99.jar=c5fa3112216597a7fe267a89095a5a07
+lib/features/io.openliberty.jakarta.connectors-2.1.mf=962e186498efd60632e847d86336bd53

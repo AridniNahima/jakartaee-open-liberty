@@ -1,3 +1,3 @@
-#Thu Mar 20 21:52:44 VET 2025
-dev/api/spec/io.openliberty.jakarta.cdi.4.0_1.0.98.jar=182e3ff82e1b70e08fcfdec28cac94e1
-lib/features/io.openliberty.jakarta.cdi-4.0.mf=1f0c89141079e89062922a0f4f59ccda
+#Tue Mar 25 19:08:50 VET 2025
+dev/api/spec/io.openliberty.jakarta.cdi.4.0_1.0.99.jar=819e6297c8e1dac6207cad4d99728680
+lib/features/io.openliberty.jakarta.cdi-4.0.mf=d414da390f82bc6c10d40e916d5242ca

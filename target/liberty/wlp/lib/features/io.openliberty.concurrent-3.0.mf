@@ -7,7 +7,7 @@ IBM-API-Package: jakarta.enterprise.concurrent; type=spec,
 IBM-API-Service: jakarta.enterprise.concurrent.ContextService; id=DefaultContextService,
  jakarta.enterprise.concurrent.ManagedExecutorService; id=DefaultManagedExecutorService,
  jakarta.enterprise.concurrent.ManagedScheduledExecutorService; id=DefaultManagedScheduledExecutorService
-IBM-AppliesTo: io.openliberty;productVersion="25.0.0.2"
+IBM-AppliesTo: io.openliberty;productVersion="25.0.0.3"
 IBM-Feature-Version: 2
 IBM-InstallTo: core
 IBM-License-Agreement: wlp/lafiles/LA

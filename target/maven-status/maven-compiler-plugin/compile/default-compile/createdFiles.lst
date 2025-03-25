@@ -5,5 +5,7 @@ com\indira\jakarta\hello\HelloWorldResource.class
 com\indira\jakarta\hello\HelloApplication.class
 com\indira\jakarta\controller\MiPrimerServlet.class
 com\indira\jakarta\controller\SessionServlet.class
+com\indira\jakarta\controller\RegistrarEstudianteServlet.class
 com\indira\jakarta\controller\RedireccionServlet.class
 com\indira\jakarta\controller\RecibirCookieServlet.class
+com\indira\jakarta\controller\EliminarEstudianteServlet.class
