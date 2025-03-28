@@ -44,13 +44,16 @@ public class MiPrimerServlet extends HttpServlet {
      * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
      */
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        String valor = request.getParameter("nombreusuario");
+        /*String valor = request.getParameter("nombreusuario");
         response.getWriter().append("<html><body><h2>Holaaaaaa :D, me enviaste " + valor + "</h2></body></html>");
-
+        */
         String usuario = request.getParameter("usuario");
         String contraseña = request.getParameter("contraseña");
+        if (usuario.equals("admin") && contraseña.equals("admin"))
+            response.getWriter().append("<html><body><h4>Usuario Activo " + usuario + "</h4></body></html>");
+        else
+            response.getWriter().append("<html><body><h4 class='text-danger'>Usuario Incorrecto</h4></body></html>");
 
-        response.getWriter().append("<html><body><h2>Holaaaaaa :D, me enviaste " + usuario + " y " + contraseña + "</h2></body></html>");
 
     }
 }

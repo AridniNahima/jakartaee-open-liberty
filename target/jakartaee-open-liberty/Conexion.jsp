@@ -91,7 +91,7 @@ El nombre es: <%= nombre %>
                         out.append("<td>");
                         out.append("<a class = 'btn btn-primary' href='/RegistroEstudiante.jsp?id=" + id + "'>Editar");
                         out.append("</a>");
-                        out.append("<a class = 'btn btn-danger' href='/Eliminar?id=" + id + "'>Eliminar");
+                        out.append("<a class = 'btn btn-danger' href='/eliminar?id=" + id + "'>Eliminar");
                         out.append("</a>");
                         out.append("</td>");
                         out.append("</tr>");

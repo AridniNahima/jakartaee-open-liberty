@@ -15,8 +15,11 @@
     <serverOutputDirectory>E:\2025\jakartaee-open-liberty\target\liberty\wlp\usr\servers\defaultServer</serverOutputDirectory>
     <serverName>defaultServer</serverName>
     <projectType>war</projectType>
+    <projectCompileDependency>jakarta.el:jakarta.el-api:5.0.1</projectCompileDependency>
     <projectCompileDependency>org.postgresql:postgresql:42.7.4</projectCompileDependency>
     <projectCompileDependency>org.checkerframework:checker-qual:3.42.0</projectCompileDependency>
+    <projectCompileDependency>jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:3.0.2</projectCompileDependency>
+    <projectCompileDependency>org.glassfish.web:jakarta.servlet.jsp.jstl:3.0.1</projectCompileDependency>
     <configDirectory>E:\2025\jakartaee-open-liberty\src\main\liberty\config</configDirectory>
     <configFile>E:\2025\jakartaee-open-liberty\src\main\liberty\config\server.xml</configFile>
     <appsDirectory>apps</appsDirectory>

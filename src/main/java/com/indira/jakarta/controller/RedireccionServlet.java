@@ -21,6 +21,8 @@ public class RedireccionServlet extends HttpServlet {
     }
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        response.getWriter().append("Holaaaaaa :D, me enviaste ");
+        response.getWriter().append("Holaaaaaa :D, me enviaste ")
+                .append("Aquii");
+
     }
 }

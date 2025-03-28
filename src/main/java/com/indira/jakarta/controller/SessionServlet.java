@@ -41,9 +41,6 @@ public class SessionServlet extends HttpServlet {
         valorContexto = (String) contexto.getAttribute("nomUsuario");
         response.getWriter().append("Valor de contexto: " + valorContexto + "\n");
 
-
-
-
     }
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
